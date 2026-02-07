@@ -1,3 +1,5 @@
+**Hier hat jemand eine ganz schlimme, böse Änderung gemacht. Wer war's?**
+
 # Inhalte 50ohm.de
 
 Dieses Repository enthält die Inhalte der Plattform 50ohm.de. Der Plattform-Code findet sich in einem gesonderten [Repository](https://github.com/DARC-e-V/50ohm). Die Lernplattform ist ein Angebot des AJW-Referats des DARC (Deutscher Amateur-Radio-Club e.V.). Viele ehrenamtlichen Mitarbeiterinnen und Mitarbeiter sind daran beteiligt.
